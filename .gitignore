@@ -1,0 +1,42 @@
+# Ambiente virtual
+.venv/
+env/
+venv/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos temporários de notebook
+.ipynb_checkpoints/
+
+# Dados gerados e resultados
+dados_tratados/
+graficos/
+resultados/
+
+# Build do setuptools
+*.egg-info/
+dist/
+build/
+
+# Arquivos ocultos do sistema ou IDEs
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Cache do Jupyter
+*.nbconvert.ipynb
+
+# Logs
+*.log
+
+# Arquivos CSV individuais que podem ser regenerados
+*.csv
+
+# Arquivos de visualização temporários
+*.png
+*.svg
