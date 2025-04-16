@@ -20,6 +20,8 @@ Este projeto analisa o impacto da pandemia de COVID-19 sobre eventos cardiovascu
 - **Sistema de Informações Hospitalares (SIH/SUS) – TabNet**  
 - Plataforma: [TabNet – DATASUS](http://tabnet.datasus.gov.br)
 
+> Os dados tratados (.csv) não estão incluídos no repositório. Para reproduzir as análises, execute os notebooks a partir dos dados brutos obtidos do [TabNet – DATASUS](http://tabnet.datasus.gov.br/).
+
 ---
 
 ## Estrutura do Projeto
